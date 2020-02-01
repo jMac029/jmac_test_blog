@@ -30,4 +30,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 #minimal-mistake theme
 gem "minimal-mistakes-jekyll"
-gem "jekyll-include-cache"
+gem 'jekyll-include-cache'
